@@ -4,8 +4,8 @@ public class Main {
         System.out.println("Hello!");
         System.out.println("Hello!!!!!!!!");
     }
-    public static void hello(){
-        System.out.println("Hello!!!!!!!!!!!!!!");
+    public static void hello(String s){
+        System.out.println("Hello!!!!!!!!!!!!!!"+s);
     }
 
 }
